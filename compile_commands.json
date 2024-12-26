@@ -1,0 +1,112 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I./include/",
+      "-g",
+      "./EXU.cpp"
+    ],
+    "directory": "/mnt/d/HCI/HCI",
+    "file": "/mnt/d/HCI/HCI/EXU.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I./include/",
+      "-g",
+      "./IDU.cpp"
+    ],
+    "directory": "/mnt/d/HCI/HCI",
+    "file": "/mnt/d/HCI/HCI/IDU.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I./include/",
+      "-g",
+      "./IFU.cpp"
+    ],
+    "directory": "/mnt/d/HCI/HCI",
+    "file": "/mnt/d/HCI/HCI/IFU.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I./include/",
+      "-g",
+      "./MEMU.cpp"
+    ],
+    "directory": "/mnt/d/HCI/HCI",
+    "file": "/mnt/d/HCI/HCI/MEMU.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I./include/",
+      "-g",
+      "./SingleTop.cpp"
+    ],
+    "directory": "/mnt/d/HCI/HCI",
+    "file": "/mnt/d/HCI/HCI/SingleTop.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I./include/",
+      "-g",
+      "./TOP.cpp"
+    ],
+    "directory": "/mnt/d/HCI/HCI",
+    "file": "/mnt/d/HCI/HCI/TOP.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I./include/",
+      "-g",
+      "./WBU.cpp"
+    ],
+    "directory": "/mnt/d/HCI/HCI",
+    "file": "/mnt/d/HCI/HCI/WBU.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I./include/",
+      "-g",
+      "./core.cpp"
+    ],
+    "directory": "/mnt/d/HCI/HCI",
+    "file": "/mnt/d/HCI/HCI/core.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I./include/",
+      "-g",
+      "./decode.cpp"
+    ],
+    "directory": "/mnt/d/HCI/HCI",
+    "file": "/mnt/d/HCI/HCI/decode.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I./include/",
+      "-g",
+      "./main.cpp"
+    ],
+    "directory": "/mnt/d/HCI/HCI",
+    "file": "/mnt/d/HCI/HCI/main.cpp"
+  }
+]
